@@ -1,4 +1,5 @@
-# WordBoonChallenge (Java Swing)
+# WordBoonChallenge (Java Swing Game)
+자바 스윙으로 만든 단어 맞추기 게임입니다.
 ![image](https://github.com/user-attachments/assets/086f2538-28fb-41ea-9333-e5853386dba3)
 
 easy normal hard 난이도를 설정할 수 있습니다. 난이도에 따라 풍선의 속도가 달라지며,
