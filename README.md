@@ -1,4 +1,4 @@
-# WordBoonChallenge (Java Swing Game)
+# WordBoonChallenge (Java Swing Game) (2024-10 ~ 2024-12)
 자바 스윙으로 만든 단어 맞추기 게임입니다.
 ![image](https://github.com/user-attachments/assets/086f2538-28fb-41ea-9333-e5853386dba3)
 
